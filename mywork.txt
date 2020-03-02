@@ -1,0 +1,11 @@
+My Associate id: 844538
+Other team Members: 844549, 844624, 844589, 844620
+Team lead: 844549
+My role in team:
+1. To develop homepage and view table components
+My development files:
+1. home pages related embedded components
+2. view table components.
+
+I was weak in:
+1. Reactive forms
